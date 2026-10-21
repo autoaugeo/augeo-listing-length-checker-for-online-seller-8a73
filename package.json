@@ -1,0 +1,10 @@
+{
+  "name": "listing-length-checker",
+  "version": "1.0.0",
+  "description": "Counts Etsy listing titles and tags and Shopify meta titles and descriptions against length limits and target lengths.",
+  "main": "checker.js",
+  "scripts": {
+    "test": "node tests/run_fixtures.js"
+  },
+  "license": "MIT"
+}
